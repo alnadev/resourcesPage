@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/backgrounds.css" type="text/css" />
+    <link rel="icon" href="res/favicon.png" />
+    <title>The Megathread</title>
+</head>
+
+<body>
+    <div class="background">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
+    <div class="mainMenuContainer">
+        <button class="menuButton" onclick="showTable(event)">Math</button>
+        <button class="menuButton" onclick="showTable(event)">Physics</button>
+        <button class="menuButton" onclick="showTable(event)">Chemistry</button>
+        <button class="menuButton" onclick="showTable(event)">DevContent</button>
+        <img class="menuItem logo" src="res/N-Stripped.png">
+        <button class="menuButton" onclick="showTable(event)">History</button>
+        <button class="menuButton" onclick="showTable(event)">Latin</button>
+        <button class="menuButton" onclick="showTable(event)">General</button>
+        <button class="menuButton" onclick="showTable(event)">Philosophy</button>
+    </div>
+    <div class="tabbedThread">
+        <div class="tabButtonContainer">
+            <button class="tabButton" id="hideTable" onclick="hideTable(event)"
+                style="margin-left: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; width: 10vw; ">▲</button>
+        </div>
+        <div class="tabViewContainer">
+        </div>
+    </div>
+    <script src="js/main.js"></script>
+    <script src="js/background.js"></script>
+</body>
+
+</html>

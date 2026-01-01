@@ -1,0 +1,370 @@
+{
+    "Math": {
+        "default": 1,
+        "visible": [
+            "Books",
+            "Youtube"
+        ],
+        "Books": [
+            {
+                "label": "Art of Problem Solving",
+                "screenshot": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt5vgO3ni5STzeLgzBTlTunO7zzYDKhGiSWg&s",
+                "link": "https://artofproblemsolving.com/store/list/all-products"
+            }
+        ],
+        "Lectures": [],
+        "Websites": [],
+        "Youtube": [
+            {
+                "label": "Eddie Woo",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_kZuFfcyx3V7heWoK6stPlQpCsRAu0UnihqKT58AxBAuQ=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ"
+            },
+            {
+                "label": "3Blue1Brown",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"
+            },
+            {
+                "label": "Mathologer",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mtp7Rl1Cp7-jl86BU-G093pGxvoZbDSElKgg7rkKDrK6U=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Mathologer"
+            },
+            {
+                "label": "blackpenredpen",
+                "screenshot": "https://yt3.googleusercontent.com/T9QUZGkM1U9iAKGhkTM9UXXENsVJA6qk5C7g8hIsm3aOn6SAIgrNjQnOdhzwNt8BYgyLuwwj=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UC_SvYP0k05UKiJ_2ndB02IA"
+            },
+            {
+                "label": "The Organic Chemistry Tutor",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_lOQikQsmqQS3dG9VBvbJ03Eqqw7NshUvDNorj5UAZL6M0=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA"
+            },
+            {
+                "label": "Numberphile",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_nmbQSAGKk1OZCBBf_sPJqLoFfYOVDWRDzALocBjGQtHeI=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"
+            },
+            {
+                "label": "BriTheMathGuy",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_kJSG9qOIcUEeukbhAyAvOuGonwsitNpEh8wN2IGhvlAE8=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@BriTheMathGuy"
+            },
+            {
+                "label": "Wrath of Math",
+                "screenshot": "https://yt3.googleusercontent.com/4dki5YPdT05Ls9qZwh7omAfETE1ygljg2ErZUPaqN0Hje01mCYKGv5nXvhBt5jXbb6efqTvFLA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@WrathofMath"
+            },
+            {
+                "label": "The Bright Side of Mathematics",
+                "screenshot": "https://yt3.googleusercontent.com/Pb-5J5G_FRteTPeKCBr_jJs0zAid0t2fQyWrklHh3kfCFoQuQrWVZWErhPGaOUCMLN5MKAnN9w=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@brightsideofmaths"
+            },
+            {
+                "label": "Mathematical Visual Proofs",
+                "screenshot": "https://yt3.googleusercontent.com/qDnUPtZ2p7HMNg55RIL_YmUkMbIlSYQNm7E-h6PArDU6KLscV1wi3Ru-8DA42CKgDlYTgupQ=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@MathVisualProofs"
+            },
+            {
+                "label": "Brainstorm - Maths and Science",
+                "screenshot": "https://yt3.googleusercontent.com/_ONprQBTwOtjjY28DbulqATPAfuokoQY2j7LQ6MwpdJp3ifYg7Ijld8t7gxPrpNMK6xEtKdjyg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@brainstormmath"
+            },
+            {
+                "label": "Mr H Tutoring",
+                "screenshot": "https://yt3.googleusercontent.com/u_jjSF70_zFj2ddKWRGwX2CqQiVeFszECTwrf-0MqPc7kA3HtPBOzx2-vjvliaaBO0v9llBu=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@mrhtutoring"
+            }
+        ]
+    },
+    "Physics": {
+        "default": 0,
+        "visible": [
+            "Curriculum",
+            "Youtube"
+        ],
+        "Curriculum": [
+            {
+                "label": "Fares Fergani",
+                "screenshot": "https://scontent.falg6-1.fna.fbcdn.net/v/t39.30808-1/307340417_184612090747406_2912350347299947993_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=100&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=AZm9oRC7O04Q7kNvwHFulGM&_nc_oc=Adl7H_ASpkORQhM--QeAP5Xzodf_Xlw1J2K2sJ_Ye7_I8oVA8tRgSLDFzH8_AMiBMT0&_nc_zt=24&_nc_ht=scontent.falg6-1.fna&_nc_gid=PY9Uws3E-gYMlS3rNTr7BQ&oh=00_AfoJWFXRyuobD4PXGfuJ5prY4dEFAmhBYhlNETgORc5v8w&oe=695C5DF3",
+                "link": "https://www.sites.google.com/site/faresfergani"
+            }
+        ],
+        "Youtube": [
+            {
+                "label": "Veritasium",
+                "screenshot": "https://yt3.googleusercontent.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@veritasium"
+            },
+            {
+                "label": "minutephysics",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mNlRy8Ablr-4VtAT6eDe7ED-3tfNFZ0FwhEYdtc6B_oQ=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@MinutePhysics"
+            },
+            {
+                "label": "PhysicsIsFun",
+                "screenshot": "https://yt3.googleusercontent.com/f0rUSTgjMKs2A2ySbxumjCVexJiIAebORLY1hU7Elbb48_UnS8DD76rbCDgOyc8_vwHn-lLKIw=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@physicsisfun_official"
+            }
+        ]
+    },
+    "Chemistry": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Youtube": [
+            {
+                "label": "NileRed",
+                "screenshot": "https://yt3.googleusercontent.com/Dv2Ma7-KpJt-SXQXv7fIEA7qkRNGEDvGPH0e33nEkgy35fI0fz48EAd-U7x3C2rPl4K-TX11=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@NileRed"
+            }
+        ]
+    },
+    "Philosophy": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Books": [],
+        "Youtube": [
+            {
+                "label": "The School of Life",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_ldJz69qUu_3sEO5c-lO5Cevt7X2gUE2YQ11iWAC-6TZFU=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@theschooloflifetv"
+            }
+        ]
+    },
+    "DevContent": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Youtube": [
+            {
+                "label": "Fireship",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Fireship"
+            },
+            {
+                "label": "UFD Tech",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_molzmMcjo7X_BgjTLe6uO6xkNdEp1OcIRz5p2Yhu_peg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@UFDTech"
+            },
+            {
+                "label": "bigboxSWE",
+                "screenshot": "https://yt3.googleusercontent.com/z1YVihkpWgDP7h8bCNZb5qJ0N3Eu26VZmwyjbdpaNmkGfgPW29JIMQdpaP2PEY3vjhARWmG2yA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@bigboxSWE"
+            },
+            {
+                "label": "Inkbox",
+                "screenshot": "https://yt3.googleusercontent.com/_Yjh97HT8P2j3fPE8WSzMXEABdFM7JgBvxqcknWHNjP2pWKP4aOIsWND23O2s-34QHgpqtgkBg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@InkboxSoftware"
+            },
+            {
+                "label": "Reducible",
+                "screenshot": "https://yt3.googleusercontent.com/4Y72xFDw395XHf878UgzsxXc1I-36cgpjgjWaZx7KRP5D3VsMk_bvFoenvYjDRhEGF9Eo2LdPg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Reducible"
+            },
+            {
+                "label": "Enderman",
+                "screenshot": "https://yt3.googleusercontent.com/dTi9lRGI6tlZsjxEr4ABh8yA5Vp8IMfaK3iiK3r82l3j0isfwnRAM_BsEIF5Ra7Mhyb0gqGc=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Endermanch"
+            },
+            {
+                "label": "Cathode Ray Dude - CRD",
+                "screenshot": "https://yt3.googleusercontent.com/73q6wlfo5-5fsP8pMwQ2adONkm3OyQFGvS5FP0Buzhx7TfGE2pw8cOLNbD_-aeL_seobeyjwWzM=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@CathodeRayDude"
+            },
+            {
+                "label": "The Cherno",
+                "screenshot": "https://yt3.googleusercontent.com/EmbIHnpmF1J0LgyUbCMK7QmfDZZm7u_GQd5eVx4XG06wIvgbagCY6WYpf2fvSdPoL1LMLkw8Iw=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@TheCherno"
+            },
+            {
+                "label": "Coding2GO",
+                "screenshot": "https://yt3.googleusercontent.com/DDvCeQPtcL0K2b96Q8cP0x-d5RWX-tXCUDAxvQUvD0_m26Jt1gyHuXCfxN9Xo1EQVckPF1miNDg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@coding2go"
+            },
+            {
+                "label": "Code to the Moon",
+                "screenshot": "https://yt3.googleusercontent.com/8pqcF_usJvcRZJjlJfcyGHHYAKi_LRMzs5X5lqu8JStLCdaRWOHG_alB2O2eYdSMAudW4-xfnKM=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@codetothemoon"
+            },
+            {
+                "label": "No Boilerplate",
+                "screenshot": "https://yt3.googleusercontent.com/PmKxwlKDcB9iLB_y5rVNJZ80pJjZR9HKjmQIer-H22XhO3uINjhmv9ouPedH1OBeDtrGtY9bNgw=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@NoBoilerplate"
+            },
+            {
+                "label": "Core Dumped",
+                "screenshot": "https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@CoreDumpped"
+            },
+            {
+                "label": "CodeAesthetic",
+                "screenshot": "https://yt3.googleusercontent.com/fKq1-wK3gkERFz9MH5bEvF73k9NUORswE2wxQ6YkCWzY7yMyYvRleubgUt_a8B8tpIyh_KGX=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@CoreDumpped"
+            },
+            {
+                "label": "Low Level",
+                "screenshot": "https://yt3.googleusercontent.com/npUuy7Y37eUqanNoISokGb5a5rk1wotnx0Yzs1kfdOzYgnlwYnV82izSKmaoYpObYewKOAacs8o=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@LowLevelTV"
+            },
+            {
+                "label": "ByteSeb",
+                "screenshot": "https://yt3.googleusercontent.com/EAN1JzaZAtA3NH-DmwnYSpF2_kJvlLhJXF8nGuqBmfHP-mvB3E-Y81Syqc4Of9hV-0sH_G1r69o=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@byteseb"
+            },
+            {
+                "label": "MattKC",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mnO5Ijt9ChIWI7cWkoC9SdBKmyX0bIt7SeHhrPTB5Y05M=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@MattKC"
+            },
+            {
+                "label": "MattKC Bytes",
+                "screenshot": "https://yt3.googleusercontent.com/UJnnwKajq6xq-6l65BW1baz3WcEaqXWRLxWEVGs41oq5LpFmLLw7hVEJeS28dZ1NIpSjhP6m8Q=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@MattKCBytes"
+            },
+            {
+                "label": "The Linux Experiment",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_lAKf-vZLoTI-gZUoP5Y3gbdGd07E4eDHUhTee6aOzDCnU=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@TheLinuxEXP"
+            },
+            {
+                "label": "Datastream",
+                "screenshot": "https://yt3.googleusercontent.com/No5kD9Qi2G4Ew5XeTagjyJXE-E_pEHSeEGOGFJrraluMY8OufQ6wvy8n_7lL7Ne1lG_fbmw8v8k=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@datastream_yt"
+            },
+            {
+                "label": "Tsoding Daily",
+                "screenshot": "https://yt3.googleusercontent.com/sVrBLZ9iy76XIN5eSdlLqLVQsy60VaQ_YD_Vvu1tTyRIw5Yk9OZK2ZoKhiZh4svRMzm6OZ_M=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@TsodingDaily"
+            },
+            {
+                "label": "Tantan",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_nryaup3w5MbESNXQzBXQCQbq9GDbfdDdkqzURz6aK41l8=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Tantandev"
+            },
+            {
+                "label": "javidx9",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mXW1yC6LVyFCVmGqzLgVWBWseXWvNLI3FbsoHonYggXw=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@javidx9"
+            },
+            {
+                "label": "Goodgis",
+                "screenshot": "https://yt3.googleusercontent.com/gTJ-OylQewAlHy29TAZcazHcGAfds3x73qDV7y6bIZKWu4ezvcsq4KSYNbDN1b9j8JbhI2XA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Goodgis"
+            },
+            {
+                "label": "Alex Ziskind",
+                "screenshot": "https://yt3.googleusercontent.com/zm4iOyMJvuuW5Yl52kNTkAq9BcKzuPYP0iqWpNRose4jx4KsXvKrGlRwz6PeSod06luOskFo=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@AZisk"
+            }
+        ]
+    },
+    "History": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Youtube": [
+            {
+                "label": "Absolute History",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_kwpBzAVXQVf8dyn-2tHUH6hDHIaHlCIl_4aAwfDLOwZzI=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@AbsoluteHistory"
+            },
+            {
+                "label": "Kings and Generals",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_lo5TWZUjPdOo49NiOvKzq_m9R5ruRv5BglNvwmUi9ywtqA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@KingsandGenerals"
+            },
+            {
+                "label": "Extra History",
+                "screenshot": "https://yt3.googleusercontent.com/Zh0F8fpARiZBKd5ajAAsvRs9QURxmUZWqo1FOFNg6h1s3ySswsbcOXvNH3qBdsssr2OA_nC_=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@extrahistory"
+            },
+            {
+                "label": "The Armchair Historian",
+                "screenshot": "https://yt3.googleusercontent.com/ch--Nn7_CRiOKykwAtUVfrERaSwvydJk538blqAJKL-7chCC6JRTcw8oWfoGDS4aUWUPBnvf=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@TheArmchairHistorian"
+            }
+        ]
+    },
+    "Latin": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Youtube": [
+            {
+                "label": "polýMATHY",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_mWRH15CzvwVOa01X6f4dSQjS6tyw_N4CUNq4DO2fkV4CY=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/channel/UCLbiwlm3poGNh5XSVlXBkGA"
+            },
+            {
+                "label": "Farya's Roman Latin Playlist",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_m4mZ5V07LkaoEdFOWIhvMz_qSEXegAzGOYTrFGx3xbAA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/playlist?list=PLMlRYqqqM5rrjeaJuVaC6MWN7e7fSXGJt"
+            }
+        ]
+    },
+    "General": {
+        "default": 0,
+        "visible": [
+            "Youtube"
+        ],
+        "Youtube": [
+            {
+                "label": "polymatt",
+                "screenshot": "https://yt3.googleusercontent.com/ozDjTphPaMFDP4ufWItQRiWUarZW1i1YXBqaBttRyRfD49vqZs3pFX1NzucbKnEyJ9VITEFN9Q=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@polymatt"
+            },
+            {
+                "label": "The Engineering Mindset",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_kfAij6p5pW1Mz69fluoU2bNEWRy4jFoom9BtIcX3e02g=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@EngineeringMindset"
+            },
+            {
+                "label": "Practical Engineering",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_m1Y4p9FzWjJBIhIwbVt6Z1qGKa8eWUTzE3kizORZMFKf4=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@PracticalEngineeringChannel"
+            },
+            {
+                "label": "LeftyMaker",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_kHMDKg1H25gNHpmlQK_KUg8lIchQK96tX5iKM_QP_QZg=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@LeftyMaker"
+            },
+            {
+                "label": "Branch Education",
+                "screenshot": "https://yt3.googleusercontent.com/3NA84SrZjBn4mqokZwGCNLeqAldLRdGZihlfXcTg_thd20VxdXvE69aswDmEOydcEitGC2DEQlY=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@BranchEducation"
+            },
+            {
+                "label": "Robonyx",
+                "screenshot": "https://yt3.googleusercontent.com/OL1sU9HF-jCpGi7zqmFAznAk___iCmsSyZWljWH4oPK7913mOErst1XXUn8xP7vu6GW7kXUpdA=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Robonyx"
+            },
+            {
+                "label": "fern",
+                "screenshot": "https://yt3.googleusercontent.com/7Pztg8I_KJBkX9XhWnQRQNmulnqCI6KEkSpWX5qYuzZiSoDv4QT7MiEu4XcCQQNBPcrUX1ko=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@fern-tv"
+            },
+            {
+                "label": "D!NG",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_n5j5qpK_xBTulWIfRJ-AFXNN_AI9-51nYThgM_xLJ2Nkk=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@dingsauce"
+            },
+            {
+                "label": "exurb1a",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_nL_Jo7sq5NSk1zuJQg-_18AOpQL31eeyXP01Pv-ACciaQ=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@Exurb1a"
+            },
+            {
+                "label": "human1011",
+                "screenshot": "https://yt3.googleusercontent.com/2jBjWomMydr8bxIyEBSSaySCy3IpUxzhTQrgJdWLgUek--3rP9FECkk7x1GLmbN7kZYXqR019w=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@humanteneleven"
+            }
+        ]
+    }
+}

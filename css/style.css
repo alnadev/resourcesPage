@@ -1,0 +1,206 @@
+.mainMenuContainer {
+    width: 100%;
+    display: grid;
+    position: absolute;
+
+    justify-content: center;
+
+    padding-top: 20px;
+    height: 100vmin;
+    top: 50%;
+    transform: translate(0, -50%);
+
+    row-gap: 4vmin;
+    column-gap: 4vmin;
+
+    grid-template-columns: repeat(3, auto);
+
+    transition: 300ms;
+}
+
+.menuItem {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 100%;
+    aspect-ratio: 1;
+    width: 27vmin;
+
+    font-size: 3.9vmin;
+}
+
+.logo {
+    transition: all 300ms;
+}
+
+.logo:hover {
+    border-color: transparent;
+    scale: 1.4;
+}
+
+.menuButton {
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 100%;
+    aspect-ratio: 1;
+    width: 27vmin;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 4.6vmin;
+    font-weight: 400;
+    transition: all 300ms;
+
+    animation: menuButtonIdle 10s infinite;
+
+}
+
+.menuButton:hover {
+    color: black;
+    background-color: white;
+    scale: 1.1;
+}
+
+
+.tabbedThread {
+    position: relative;
+    color: white;
+    top: 100vh;
+    transition: 300ms;
+}
+
+@keyframes menuButtonIdle {
+    0% {
+        border-color: white;
+    }
+
+    50% {
+        border-color: rgba(255, 255, 255, 0.3);
+    }
+
+    100% {
+        border-color: white;
+    }
+}
+
+.tabButtonContainer {
+    font-size: 50px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    opacity: 0;
+    transition: 400ms;
+    width: 100%;
+
+    transform: translate(0, 15px);
+
+    display: flex;
+    overflow-x: auto;
+}
+
+
+.tabButton {
+    background-color: transparent;
+    color: white;
+    border: solid white 1px;
+    border-radius: 1cm;
+    height: 50px;
+    width: 20vw;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    font-size: 3.6vmin;
+    margin-left: auto;
+    margin-right: 10px;
+
+    transition: 300ms;
+}
+
+.tabButtonSelected {
+    background-color: white;
+    color: black;
+    border: solid white 1px;
+    border-radius: 1cm;
+    height: 50px;
+    width: 20vw;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    font-size: 3.6vmin;
+    margin-left: auto;
+    margin-right: 10px;
+
+    transition: 300ms;
+}
+
+.tabButton:hover {
+    background-color: white;
+    color: black;
+}
+
+.tabViewContainer {
+    position: relative;
+    transform: translate(0, 70px);
+    z-index: 1;
+
+    /* border: solid white 1px; */
+    /* border-radius: 5mm; */
+    padding: 20px;
+    margin: 20px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    row-gap: 10px;
+    column-gap: 10px;
+
+    transition: 100ms;
+
+    justify-content: center;
+}
+
+.tabItem {
+    border: solid white 2px;
+    border-radius: 5mm;
+    aspect-ratio: 1;
+    text-align: center;
+    text-decoration: none;
+    transition: 200ms;
+
+    color: white;
+    background-color: transparent;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.tabItem:hover {
+    scale: 1.05;
+    color: black;
+    background-color: white;
+}
+
+.tabItemImage {
+    height: 80%;
+    width: 80%;
+    align-self: center;
+    margin: 10px;
+    
+    border-radius: 10px;
+
+    box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.6)
+}
+
+.tabItemLabel {
+    margin: 10px;
+    text-align: center;
+    justify-self: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1.2em;
+
+}
+
+body {
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
