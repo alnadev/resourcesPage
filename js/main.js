@@ -75,6 +75,7 @@ function createTabItem(label, screenshot, link) {
     a.className = "tabItem";
     a.rel = "noopener noreferrer";
     a.href = link;
+    a.target = "_blank";
 
     let imgChild = document.createElement("img");
     imgChild.className = "tabItemImage";

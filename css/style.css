@@ -124,12 +124,11 @@
     height: 50px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-    width: 5cm;
+    width: 3cm;
     font-size: 3.6vmin;
 
     transition: 300ms;
 
-    
     margin-left: auto;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
