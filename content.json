@@ -129,9 +129,19 @@
         "Books": [],
         "Youtube": [
             {
-                "label": "The School of Life",
-                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_ldJz69qUu_3sEO5c-lO5Cevt7X2gUE2YQ11iWAC-6TZFU=s160-c-k-c0x00ffffff-no-rj",
-                "link": "https://www.youtube.com/@theschooloflifetv"
+                "label": "Then & Now",
+                "screenshot": "https://yt3.googleusercontent.com/zS1aMm5N2B7eSBw6e9s-eMfPF_C6dNroYxfY8bkO0LinC3qQtAYTnc82Hva2AnM6u9yYg3Yz7Q=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@ThenNow"
+            },
+            {
+                "label": "Closer To Truth",
+                "screenshot": "https://yt3.googleusercontent.com/_g5S1-lwbmKnKJ1LsUy_F9eJb7dLgskQzeeRkrb4PCm0jbYihA04NiKdWxikapcAhtbwNiu68jE=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@CloserToTruthTV"
+            },
+            {
+                "label": "Carneades.org",
+                "screenshot": "https://yt3.googleusercontent.com/ytc/AIdro_lmaNybo6WfJJNsyN5_dcZE6HZvlGyuD37EsDN1mIWs_w=s160-c-k-c0x00ffffff-no-rj",
+                "link": "https://www.youtube.com/@CarneadesOfCyrene"
             }
         ]
     },
