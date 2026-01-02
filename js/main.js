@@ -23,6 +23,7 @@ let initialviewContainerTop = 80;
 let tabbedThreadHidden = true;
 
 function loadTabContent(event) {
+    console.log(event);
     if (event) {
         if (event.srcElement.className === "tabButtonSelected") return;
         for (const selectedElements of document.getElementsByClassName("tabButtonSelected")) {
@@ -44,7 +45,7 @@ function loadTabContent(event) {
             TabItem = createTabItem(item.label, item.screenshot, item.link);
             tabViewContainer.appendChild(TabItem)
         }
-        window.scrollTo(0, 0); 
+        window.scrollTo(0, 0);
 
         setTimeout(() => {
             tabViewContainer.style.opacity = 1;
@@ -55,7 +56,9 @@ function loadTabContent(event) {
 }
 
 function clearTabButtonContainer() {
-    tabButtonContainer.innerHTML = '<button class="tabButton" id="hideTable" onclick="hideTable(event)" style="margin-left: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; width: 10vw; ">▲</button>';
+    while (tabButtonContainer.hasChildNodes()) {
+        tabButtonContainer.removeChild(tabButtonContainer.firstChild);
+    }
 }
 
 function createTabButton(text, isDefault) {
@@ -104,6 +107,12 @@ function showTable(event) {
     for (let index = 0; index < content[path[0]].visible.length; index++) {
         tabButtonContainer.appendChild(createTabButton(content[path[0]].visible[index], index == content[path[0]].default))
     }
+
+    returnButton = document.createElement("button");
+    returnButton.className = "tabButtonReturn";
+    returnButton.onclick = hideTable;
+    returnButton.innerText = "▲";
+    tabButtonContainer.appendChild(returnButton);
 
     loadTabContent();
 

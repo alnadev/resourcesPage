@@ -105,14 +105,40 @@
     border: solid white 1px;
     border-radius: 1cm;
     height: 50px;
-    width: 20vw;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-    font-size: 3.6vmin;
-    margin-left: auto;
+    margin-left: 10px;
     margin-right: 10px;
+    width: 100%;
+    min-width: 5cm;
+    font-size: 3.6vmin;
 
     transition: 300ms;
+}
+
+.tabButtonReturn {
+    background-color: transparent;
+    color: white;
+    border: solid white 1px;
+    border-radius: 1cm;
+    height: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    width: 5cm;
+    font-size: 3.6vmin;
+
+    transition: 300ms;
+
+    
+    margin-left: auto;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 15vw;
+}
+
+.tabButtonReturn:hover {
+    background-color: white;
+    color: black;
 }
 
 .tabButtonSelected {
@@ -121,12 +147,13 @@
     border: solid white 1px;
     border-radius: 1cm;
     height: 50px;
-    width: 20vw;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-    font-size: 3.6vmin;
-    margin-left: auto;
+    width: 100%;
+    min-width: 5cm;
+    margin-left: 10px;
     margin-right: 10px;
+    font-size: 3.6vmin;
 
     transition: 300ms;
 }
@@ -182,7 +209,7 @@
     width: 80%;
     align-self: center;
     margin: 10px;
-    
+
     border-radius: 10px;
 
     box-shadow: 7px 7px 7px rgba(0, 0, 0, 0.6)
@@ -203,4 +230,3 @@ body {
     color: white;
     margin: 0;
 }
-
