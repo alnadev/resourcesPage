@@ -23,7 +23,6 @@ let initialviewContainerTop = 80;
 let tabbedThreadHidden = true;
 
 function loadTabContent(event) {
-    console.log(event);
     if (event) {
         if (event.srcElement.className === "tabButtonSelected") return;
         for (const selectedElements of document.getElementsByClassName("tabButtonSelected")) {
@@ -42,7 +41,7 @@ function loadTabContent(event) {
         }
 
         for (const item of content[path[0]][path[1]]) {
-            TabItem = createTabItem(item.label, item.screenshot, item.link);
+            TabItem = createTabItem(item.label, item.screenshot, item.link, item.shadow);
             tabViewContainer.appendChild(TabItem)
         }
         window.scrollTo(0, 0);
@@ -70,7 +69,7 @@ function createTabButton(text, isDefault) {
 
     return tabButton;
 }
-function createTabItem(label, screenshot, link) {
+function createTabItem(label, screenshot, link, shadow) {
     let a = document.createElement("a");
     a.className = "tabItem";
     a.rel = "noopener noreferrer";
@@ -80,6 +79,8 @@ function createTabItem(label, screenshot, link) {
     let imgChild = document.createElement("img");
     imgChild.className = "tabItemImage";
     imgChild.src = screenshot;
+
+	if (shadow == false) imgChild.style.boxShadow = "none";
 
     let labelChild = document.createElement("label");
     labelChild.className = "tabItemLabel";
