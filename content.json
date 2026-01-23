@@ -274,10 +274,18 @@
         ]
     },
     "History": {
-        "default": 0,
+        "default": 1,
         "visible": [
-            "Youtube"
+            "Websites", "Youtube"
         ],
+		"Websites": [
+            {
+                "label": "War History Online",
+                "screenshot": "res/w1.svg",
+                "link": "https://www.warhistoryonline.com",
+				"shadow": false
+            }
+		],
         "Youtube": [
             {
                 "label": "Kings and Generals",
